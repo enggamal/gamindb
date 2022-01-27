@@ -11,7 +11,3 @@ if [[ -d gamin/$deleted_dir ]]; then
 else
 	echo "$deleted_dir doesn't exist"
 fi
-
-
-
-
